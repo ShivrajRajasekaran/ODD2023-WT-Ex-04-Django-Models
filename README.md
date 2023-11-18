@@ -1,7 +1,9 @@
 # Ex-04-Django-Models
 Student Details:
 Name: SHIVRAJ R
+
 Department: CSE(IOT)
+
 Ref.No: 23013397
 
 # AIM:
