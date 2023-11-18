@@ -118,7 +118,7 @@ In the admin/ page you can view the models created
 And in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT:
-![Alt text](django.png.png)
+![output](django.png-1.png)
 
 # RESULT:
  
