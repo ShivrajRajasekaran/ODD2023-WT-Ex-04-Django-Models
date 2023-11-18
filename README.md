@@ -118,7 +118,8 @@ In the admin/ page you can view the models created
 And in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT:
-![output](django.png-1.png)
+![django png-1](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-04-Django-Models/assets/145742560/77b17d0e-5395-4ed2-9fec-3d82925729bc)
+
 
 # RESULT:
  
