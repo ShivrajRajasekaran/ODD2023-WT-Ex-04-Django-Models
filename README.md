@@ -94,7 +94,7 @@ Python mange.py makemigrations
 Python manage.py migrate
 
 3.Create a template as user_profiles.html
-
+````
 <!DOCTYPE html>
 <html>
 <head>
@@ -106,7 +106,7 @@ Python manage.py migrate
 <p><strong>Custom Profile Data:</strong> {{ user_profile.custom_field }}</p>
 </body>
 </html>
-
+````
 # STEP 7:
 
 Run the program using the command.
@@ -118,8 +118,8 @@ In the admin/ page you can view the models created
 And in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT:
-![django png-1](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-04-Django-Models/assets/145742560/77b17d0e-5395-4ed2-9fec-3d82925729bc)
-
+![django1](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-04-Django-Models/assets/145742560/ecdfa974-264b-4900-b567-5ba6d2013ef8)
+![Django2](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-04-Django-Models/assets/145742560/6f5ec9c3-2d41-4ac4-bd48-52078298ee16)
 
 # RESULT:
  
